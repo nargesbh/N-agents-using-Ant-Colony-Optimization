@@ -31,7 +31,7 @@ git clone https://github.com/your-username/your-repo.git
    pip install numpy
    ```
 
-3. Modify the input file `jobX.assign` (where X is the job number) to represent your specific job assignment problem. Each line of the input file should contain the cost of assigning a job to an employee. (check HW3.pdf file to access different examples)
+3. Modify the input file `jobX.assign` (where X is the job number) to represent your specific job assignment problem. Each line of the input file should contain the cost of assigning a job to an employee. check HW3.pdf file to access different examples.
 
 4. In the code, set the parameters such as the number of ants, alpha, beta, learning rate, and evaporation rate based on your problem and preferences.
 
