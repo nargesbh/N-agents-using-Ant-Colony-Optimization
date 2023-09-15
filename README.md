@@ -1,4 +1,5 @@
 # Ant Colony Optimization for Job Assignment
+![ant](ant.gif)
 
 This repository contains Python code for solving the job assignment problem using Ant Colony Optimization (ACO). In this problem, a set of jobs needs to be assigned to a set of employees in such a way that the total cost is minimized. The ACO algorithm is used to find an optimal or near-optimal assignment of jobs to employees.
 
